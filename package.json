@@ -1,0 +1,17 @@
+{
+  "name": "sleekeditor",
+  "version": "1.2.0",
+  "description": "Zero-dependency, offline-first WYSIWYG rich-text editor component and modular OOP JavaScript API",
+  "main": "editor.js",
+  "style": "editor.css",
+  "keywords": [
+    "wysiwyg",
+    "rich-text-editor",
+    "contenteditable",
+    "vanilla-js",
+    "zero-dependencies"
+  ],
+  "author": "Gohar Rehman <goharrehmanfsd260@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://github.com/itsgoharrehman/sleekeditor"
+}
