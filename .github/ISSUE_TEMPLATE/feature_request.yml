@@ -1,0 +1,23 @@
+name: Feature Request
+description: Propose a new formatting tool, method, or improvement for sleekeditor
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a new formatting tool, API method, or UI capability for sleekeditor.
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Is this feature related to a limitation or missing formatting control?
+    validations:
+      required: true
+  - type: textarea
+    id: solution
+    attributes:
+      label: Proposed Solution
+      description: Clear description of the proposed feature and API design.
+    validations:
+      required: true
